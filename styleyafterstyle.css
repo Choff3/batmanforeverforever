@@ -1,0 +1,21 @@
+img {
+    height: 720px;
+    left: 50%;
+    margin-top: -360px;
+    margin-left: -360px;
+    position: absolute;
+    top: 50%;
+    width: 720px;
+    size: 50%;
+ }
+
+html, body {
+    height: 100%;
+    background-image: url('bg.jpg');
+    background-size: 25%;
+    margin: 0;
+}
+
+#background {
+    min-height: 100%; 
+}
